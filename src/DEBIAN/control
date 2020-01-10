@@ -1,0 +1,10 @@
+Package: zabbix-squid
+Version: 1.0.0-2020011001
+Section: net
+Priority: optional
+Architecture: all
+Depends: zabbix-agent (>=4.0),squidclient (>=3.4)
+Maintainer: Gabriele Vivinetto <gabriele.mailing@rvmgroup.it>
+Description: Zabbiz agent scripts to minitor Squid throug squidclient
+ These scripts monitor Squid
+
